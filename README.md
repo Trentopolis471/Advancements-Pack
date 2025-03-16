@@ -1,0 +1,1 @@
+Im making a minecraft advancements pack on version 1.21.3, and I've coded 7 advancements but none of them seem to work. I dont think its to do with the JSON code, but Im not really sure. If anyone can help out, that would be great.  
